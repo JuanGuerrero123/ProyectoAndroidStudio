@@ -1,0 +1,28 @@
+# Archivos de configuración locales y de Gradle
+*.iml
+.gradle
+/local.properties
+
+# Directorios de Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Archivos y carpetas generadas por el build
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Sistema operativo y archivos temporales
+.DS_Store
+*.log
+
+# Archivos sensibles de Firebase
+/google-services.json
+
+# Ignorar los nodos de caché y configuración
+caches/

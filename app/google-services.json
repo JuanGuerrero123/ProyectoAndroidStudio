@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659761774220",
+    "project_id": "gestion-de-inventarios-500f1",
+    "storage_bucket": "gestion-de-inventarios-500f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659761774220:android:dceb3d127daa940d23c5a9",
+        "android_client_info": {
+          "package_name": "com.example.bdroomguiaejemplo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnoTOO2aXHPuisZ81A2R4vYbGIiTlsvn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
